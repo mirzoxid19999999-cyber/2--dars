@@ -16,7 +16,7 @@ body{
 }
 .main_2{
     border: 9px solid red;
-    height: 297px;
+    height: 431px;
     width: 888px;
     margin: 0 auto;
     
@@ -24,12 +24,6 @@ body{
 .e{
     background-color: aqua;
     border: 15px solid black;
+    padding-left: 20px;
+}
 
-}
-.r{
-    
-        background-color: aqua;
-        border: 15px solid black;
-    
-    
-}
